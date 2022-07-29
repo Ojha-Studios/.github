@@ -1,4 +1,4 @@
 # Ojha Studios
-Dreams are achieveable, see them with open eyes.
+We make UI/UX Designs.
 
 [Discussion page](https://github.com/orgs/Ojha-Studios/discussions)
