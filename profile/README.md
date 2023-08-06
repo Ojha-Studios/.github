@@ -1,4 +1,4 @@
 # Ojha Studios
-We make UI/UX Designs.
+Awesome team making awesome projects!
 
-[Discussion page](https://github.com/orgs/Ojha-Studios/discussions)
+CEO: Nitin Ojha
